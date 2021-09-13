@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/enabiz.gov.tr.fa/static/css/main.ebc6e556.chunk.css",
-    "main.js": "/enabiz.gov.tr.fa/static/js/main.b0182fdf.chunk.js",
-    "main.js.map": "/enabiz.gov.tr.fa/static/js/main.b0182fdf.chunk.js.map",
+    "main.js": "/enabiz.gov.tr.fa/static/js/main.5611fc9e.chunk.js",
+    "main.js.map": "/enabiz.gov.tr.fa/static/js/main.5611fc9e.chunk.js.map",
     "runtime-main.js": "/enabiz.gov.tr.fa/static/js/runtime-main.78205811.js",
     "runtime-main.js.map": "/enabiz.gov.tr.fa/static/js/runtime-main.78205811.js.map",
     "static/js/2.95f70925.chunk.js": "/enabiz.gov.tr.fa/static/js/2.95f70925.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.78205811.js",
     "static/js/2.95f70925.chunk.js",
     "static/css/main.ebc6e556.chunk.css",
-    "static/js/main.b0182fdf.chunk.js"
+    "static/js/main.5611fc9e.chunk.js"
   ]
 }
